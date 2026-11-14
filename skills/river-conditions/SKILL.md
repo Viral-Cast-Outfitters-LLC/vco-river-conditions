@@ -1,10 +1,6 @@
 ---
 name: river-conditions
-description: >-
-  Fetch live Colorado river flow (cfs), water temperature (°F), and gage height
-  from the USGS Water Data API for Viral Cast Outfitters fishing reports, blog
-  posts, and Water Desk. Use when an angler or writer needs current or recent
-  river conditions. Never invent missing numbers.
+description: Use for live Colorado river flows, water temperature, and gage height from USGS when writing fishing reports, blog content, or VCO Water Desk updates. Never invent numbers.
 ---
 
 # River conditions (VCO)
