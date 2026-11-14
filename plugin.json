@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "vco-river-conditions",
+  "version": "0.2.0",
+  "description": "Live Colorado river flow, water temperature, and gage height for Viral Cast Outfitters fishing reports, blog content, and Water Desk. Wraps the free USGS Water Data OGC API; never invents missing values.",
+  "author": {
+    "name": "Viral Cast Outfitters"
+  },
+  "repository": "https://github.com/ryan22stahl-nexusbot/vco-river-conditions",
+  "homepage": "https://github.com/ryan22stahl-nexusbot/vco-river-conditions",
+  "license": "MIT",
+  "keywords": [
+    "usgs",
+    "colorado",
+    "rivers",
+    "fishing",
+    "flow",
+    "water-temperature",
+    "vco"
+  ]
+}

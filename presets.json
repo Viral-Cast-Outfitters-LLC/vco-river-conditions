@@ -1,0 +1,74 @@
+{
+  "gunnison-below-tunnel": {
+    "siteId": "USGS-09128000",
+    "river": "Gunnison",
+    "label": "Gunnison River below Gunnison Tunnel",
+    "aliases": ["gunnison tunnel", "gunnison below tunnel", "black canyon"]
+  },
+  "colorado-glenwood": {
+    "siteId": "USGS-09085100",
+    "river": "Colorado",
+    "label": "Colorado River below Glenwood Springs",
+    "aliases": ["glenwood", "glenwood springs", "colorado at glenwood"]
+  },
+  "colorado-cameo": {
+    "siteId": "USGS-09095500",
+    "river": "Colorado",
+    "label": "Colorado River near Cameo",
+    "aliases": ["cameo"]
+  },
+  "colorado-state-line": {
+    "siteId": "USGS-09163500",
+    "river": "Colorado",
+    "label": "Colorado River near Colorado-Utah State Line",
+    "aliases": ["state line", "co-ut", "utah line", "colorado utah"]
+  },
+  "roaring-fork-glenwood": {
+    "siteId": "USGS-09085000",
+    "river": "Roaring Fork",
+    "label": "Roaring Fork River at Glenwood Springs",
+    "aliases": ["roaring fork", "roaringfork"]
+  },
+  "fryingpan-below-ruedi": {
+    "siteId": "USGS-09080400",
+    "river": "Frying Pan",
+    "label": "Fryingpan River near Ruedi (below Ruedi Reservoir)",
+    "aliases": ["frying pan", "fryingpan", "ruedi", "frying pan below ruedi"]
+  },
+  "south-platte-deckers": {
+    "siteId": "USGS-06701900",
+    "river": "South Platte",
+    "label": "South Platte River below Brush Creek near Trumbull (Deckers area)",
+    "aliases": ["deckers", "trumbull", "south platte deckers"]
+  },
+  "south-platte-cheesman": {
+    "siteId": "USGS-06700000",
+    "river": "South Platte",
+    "label": "South Platte River above Cheesman Lake",
+    "aliases": ["cheesman", "cheesman canyon"]
+  },
+  "blue-below-green-mountain": {
+    "siteId": "USGS-09057500",
+    "river": "Blue",
+    "label": "Blue River below Green Mountain Reservoir",
+    "aliases": ["blue", "green mountain", "blue river"]
+  },
+  "arkansas-parkdale": {
+    "siteId": "USGS-07094500",
+    "river": "Arkansas",
+    "label": "Arkansas River at Parkdale",
+    "aliases": ["arkansas", "parkdale", "bighorn sheep canyon"]
+  },
+  "yampa-steamboat": {
+    "siteId": "USGS-09239500",
+    "river": "Yampa",
+    "label": "Yampa River at Steamboat Springs",
+    "aliases": ["yampa", "steamboat"]
+  },
+  "taylor-below-taylor-park": {
+    "siteId": "USGS-09109000",
+    "river": "Taylor",
+    "label": "Taylor River below Taylor Park Reservoir",
+    "aliases": ["taylor", "taylor park", "taylor below taylor park"]
+  }
+}
